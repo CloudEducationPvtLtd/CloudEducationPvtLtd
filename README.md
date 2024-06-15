@@ -8,7 +8,6 @@
 
 ### Hi there, We're Cloud Education 👨‍💻
 
-I am a **Full Stack Developer** building web apps. I work mostly with ReactJS, NodeJS. Also I work as a UI/UX designer when there's a need to fill that role.
 We're an innovative **EdTech** firm specializing in **Robotics, Embedded Systems, Drones, AI, and Machine Learning**. We conduct **Workshops** for students across schools, colleges, and universities, alongside tailored teacher training programs. Our comprehensive **Lab Setups** support projects in robotics, IoT, drones, and AI-ML, complemented by an **Electronic Shopping Store** for project essentials
 
 
